@@ -1,0 +1,13 @@
+C:\Users\Marcos Roberto\Documents\SENAI\Backend\Console\Semaforo\obj\Debug\netcoreapp3.1\Semaforo.csprojAssemblyReference.cache
+C:\Users\Marcos Roberto\Documents\SENAI\Backend\Console\Semaforo\obj\Debug\netcoreapp3.1\Semaforo.AssemblyInfoInputs.cache
+C:\Users\Marcos Roberto\Documents\SENAI\Backend\Console\Semaforo\obj\Debug\netcoreapp3.1\Semaforo.AssemblyInfo.cs
+C:\Users\Marcos Roberto\Documents\SENAI\Backend\Console\Semaforo\obj\Debug\netcoreapp3.1\Semaforo.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Roberto\Documents\SENAI\Backend\Console\Semaforo\bin\Debug\netcoreapp3.1\Semaforo.exe
+C:\Users\Marcos Roberto\Documents\SENAI\Backend\Console\Semaforo\bin\Debug\netcoreapp3.1\Semaforo.deps.json
+C:\Users\Marcos Roberto\Documents\SENAI\Backend\Console\Semaforo\bin\Debug\netcoreapp3.1\Semaforo.runtimeconfig.json
+C:\Users\Marcos Roberto\Documents\SENAI\Backend\Console\Semaforo\bin\Debug\netcoreapp3.1\Semaforo.runtimeconfig.dev.json
+C:\Users\Marcos Roberto\Documents\SENAI\Backend\Console\Semaforo\bin\Debug\netcoreapp3.1\Semaforo.dll
+C:\Users\Marcos Roberto\Documents\SENAI\Backend\Console\Semaforo\bin\Debug\netcoreapp3.1\Semaforo.pdb
+C:\Users\Marcos Roberto\Documents\SENAI\Backend\Console\Semaforo\obj\Debug\netcoreapp3.1\Semaforo.dll
+C:\Users\Marcos Roberto\Documents\SENAI\Backend\Console\Semaforo\obj\Debug\netcoreapp3.1\Semaforo.pdb
+C:\Users\Marcos Roberto\Documents\SENAI\Backend\Console\Semaforo\obj\Debug\netcoreapp3.1\Semaforo.genruntimeconfig.cache
